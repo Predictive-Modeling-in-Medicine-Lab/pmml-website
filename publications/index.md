@@ -1,20 +1,18 @@
-<!-- ---
+---
 title: Publications
 nav:
   order: 4
-  tooltip: Published works
---- -->
+  tooltip: Academic publications from the lab
+---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-file-lines" %}Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+Below you will find a list of publications from members of our lab.
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="modeling of blood flow" style="rich" %}
 
 {% include section.html %}
 

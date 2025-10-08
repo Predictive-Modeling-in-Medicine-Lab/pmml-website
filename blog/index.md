@@ -1,9 +1,9 @@
-<!-- ---
+---
 title: Blog
 nav:
-  order: 4
-  tooltip: Musings and miscellany
---- -->
+  order: 3
+  tooltip: Tutorials, opinions, and showcases from lab members
+---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
