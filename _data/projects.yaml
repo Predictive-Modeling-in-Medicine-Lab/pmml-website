@@ -1,0 +1,48 @@
+- title: Personalized Cardiovascular Modeling
+  subtitle: Toward predictive medicine
+  group: featured
+  image: images/photo.jpg
+  link: research/cv-modeling
+  description: We are building patient-specific biophysical models of the cardiovascular system, derived from medical imaging data.
+  repo: greenelab/lab-website-template
+  tags:
+    - cardiovascular
+    - modeling
+
+- title: Cool Package
+  subtitle: a subtitle
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
+- title: Cool Tutorial
+  subtitle: a subtitle
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+    - publication
+
+- title: Cool Web App
+  subtitle: a subtitle
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
+
+- title: Cool Web Server
+  subtitle: a subtitle
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
