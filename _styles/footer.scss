@@ -23,3 +23,33 @@ footer a:hover {
 footer .icon {
   font-size: var(--xl);
 }
+
+.footer__nav {
+  width: 70%;
+  margin: 0 auto 1rem auto;  /* centers the nav horizontally */
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid currentColor;
+  display: flex;
+  justify-content: flex-start;  /* aligns items to the left */
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.footer__nav a {
+  text-decoration: none; /* removes underline */
+  color: inherit; /* optional: keeps text color consistent with surrounding text */
+}
+
+.footer__logos {
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.footer__logo-image {
+  height: 80px; /* Adjust this as needed */
+  max-width: 300px;
+  object-fit: contain;
+}
