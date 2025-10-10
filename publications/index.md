@@ -1,9 +1,9 @@
----
+<!-- ---
 title: Publications
 nav:
   order: 4
   tooltip: Academic publications from the lab
----
+--- -->
 
 # {% include icon.html icon="fa-solid fa-file-lines" %}Publications
 

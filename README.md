@@ -24,7 +24,7 @@ This README provides a quick-start guide for lab members who want to make simple
 
 ```bash
 git clone https://github.com/michaelkapteyn/taylor-lab-website.git
-cd website
+cd taylor-lab-website
 ```
 
 ### 2. Run the website via docker
@@ -86,6 +86,7 @@ To add a new project:
 link : /research/my-project
 ```
 This should make the card on the Research page link to your detailed writeup.
+
 ---
 
 ### 👥 Adding a New Team Member
@@ -103,12 +104,12 @@ https://greene-lab.gitbook.io/lab-website-template-docs/basics/team-members
 
 ---
 
-### 📝 Adding a New Blog Post
+### 📝 Adding a New Blog or News Post
 
 To add a new blog post:
 
-1. Create a new Markdown file in the `_posts` directory.  
-   Example: `_posts/2025-10-01-new-results.md`. You should be able to follow the template given by other posts in the `_posts` directory.
+1. Create a new Markdown file in the `_blog-posts` or `_news-posts` directory.  
+   Example: `_news-posts/2025-10-01-new-article.md`. You should be able to follow the template given by other posts in the `_*-posts` directories.
 
 3. Commit your changes and open a PR for review.
 
