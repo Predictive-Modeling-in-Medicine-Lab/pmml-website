@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.10.09.25337677
+  title: Multimodal AI for Precision Preventive Cardiology
+  authors:
+  - Devansh Pandey
+  - Liaoyi Xu
+  - Eucharist Kun
+  - Chenfei Li
+  - Joyce Y. Wang
+  - Alaa Melek
+  - Julie C. DiCarlo
+  - Edward Castillo
+  - Jagat Narula
+  - Charles A. Taylor
+  - Vagheesh M. Narasimhan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-10-10'
+  link: https://doi.org/g96jp5
+  orcid: 0000-0001-8584-0807
+  charles-taylor: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.cma.2023.116414
   title: Patient-specific modeling of blood flow in the coronary arteries
   authors:
