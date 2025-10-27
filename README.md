@@ -5,7 +5,7 @@
 # The Predictive Modeling in Medicine Lab Website
 
 This repository contains the source code for the website of **The Predictive Modeling in Medicine Lab**, run by **Dr. Charles Taylor** at **The University of Texas at Austin**.  
-The website is publicly available at: **[michaelkapteyn.github.io/taylor-lab-website](https://michaelkapteyn.github.io/taylor-lab-website)**
+The website is publicly available at: **[michaelkapteyn.github.io/pmml-website](https://michaelkapteyn.github.io/pmml-website)**
 
 Our website is built using the [**Lab Website Template**](https://github.com/greenelab/lab-website-template) developed by the Greene Lab.  
 
