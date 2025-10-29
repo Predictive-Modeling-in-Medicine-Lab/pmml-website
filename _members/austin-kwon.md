@@ -4,7 +4,7 @@ image: images/people/Austin_Kwon.jpeg
 role: phd
 group: active
 links:
-  github: john-doe
+  github: austin-the-kwon
 ---
 
 Austin is a PhD Student working on ...
