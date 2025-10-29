@@ -25,7 +25,7 @@ This README provides a quick-start guide for lab members who want to make simple
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/michaelkapteyn/taylor-lab-website.git
+git clone https://github.com/Predictive-Modeling-in-Medicine-Lab/pmml-website.git
 cd taylor-lab-website
 ```
 
