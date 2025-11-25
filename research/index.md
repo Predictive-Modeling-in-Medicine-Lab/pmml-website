@@ -21,6 +21,6 @@ Our research spans ABC and includes XYZ
 
 {% include section.html %}
 
-## More
+<!-- ## More -->
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+<!-- {% include list.html component="card" data="projects" filter="!group" style="small" %} -->
