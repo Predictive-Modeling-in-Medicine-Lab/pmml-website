@@ -1,6 +1,6 @@
 ---
 name: Michele Bucelli
-image: images/people/placeholder.png
+image: images/people/Michele_Bucelli.jpeg
 role: research-associate
 group: active
 links:
