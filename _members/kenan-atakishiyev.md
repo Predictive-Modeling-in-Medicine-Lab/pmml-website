@@ -1,6 +1,6 @@
 ---
 name: Kenan Atakishiyev
-image: images/people/placeholder.png
+image: images/people/kenan_atakishiyev.jpg
 role: phd
 group: active
 links:
