@@ -1,6 +1,6 @@
 ---
 name: Austin Kwon
-image: images/people/Austin_Kwon.jpeg
+image: images/people/Austin Kwon V2.JPG
 role: PhD
 group: active
 links:
