@@ -13,7 +13,7 @@ Our mission is to provide clinic-ready tools that integrate medical imaging-base
 
 {% capture text %}
 
-Our research focuses on developing tools and techniques to construct patient-specific computational models and deploy them in support of clinical decision-making. We currently focus on the heart, lungs, brain, and musculoskeletal system.
+Our research focuses on developing tools and techniques to construct patient-specific computational models and deploy them in support of clinical decision-making. We currently focus on the heart, circulatory system, lungs, brain, and musculoskeletal system.
 
 {%
   include button.html
@@ -36,7 +36,7 @@ Our research focuses on developing tools and techniques to construct patient-spe
 
 {% capture text %}
 
-We are a multidisciplinary research team comprised of computational scientists, biologists, clinicians, and software engineers.
+Meet our multidisciplinary research team comprised of computational scientists, biomedical engineers, clinicians, and software engineers.
 
 {%
   include button.html
@@ -51,7 +51,7 @@ We are a multidisciplinary research team comprised of computational scientists, 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/people/LabPhoto_2025.jpeg"
   link="projects"
   title="People"
   flip=true
@@ -61,7 +61,7 @@ We are a multidisciplinary research team comprised of computational scientists, 
 
 {% capture text %}
 
-Interested in learning more, collaborating, or joining our lab?
+Interested in learning more about our lab, collaborating with us, or supporting our work?
 
 {%
   include button.html
@@ -76,7 +76,7 @@ Interested in learning more, collaborating, or joining our lab?
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/contact/ut.jpg"
   link="team"
   title="Contact"
   text=text
