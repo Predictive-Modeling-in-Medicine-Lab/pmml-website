@@ -1,7 +1,7 @@
 ---
 name: Austin Kwon
-image: images/people/Austin Kwon V2.JPG
-role: PhD
+image: images/people/Austin_Kwon.JPG
+role: phd
 group: active
 links:
   github: austin-the-kwon
