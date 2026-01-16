@@ -17,10 +17,11 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2025-10-10'
   link: https://doi.org/g96jp5
-  orcid: 0000-0001-8584-0807
+  orcid: 0000-0002-6965-3611
   charles-taylor: true
   plugin: orcid.py
   file: orcid.yaml
+  julie-dicarlo: true
 - id: doi:10.1016/j.cma.2023.116414
   title: Patient-specific modeling of blood flow in the coronary arteries
   authors:
@@ -34,7 +35,7 @@
   - Michiel Schaap
   publisher: Computer Methods in Applied Mechanics and Engineering
   date: '2023-12-01'
-  link: https://doi.org/10.1016/j.cma.2023.116414
+  link: https://doi.org/gs8sjm
   orcid: 0000-0001-8584-0807
   charles-taylor: true
   plugin: orcid.py
@@ -66,49 +67,428 @@
   - "Bjarne L. N\xF8rgaard"
   publisher: Journal of Cardiovascular Computed Tomography
   date: '2017-11-01'
-  link: https://doi.org/10.1016/j.jcct.2017.08.001
+  link: https://doi.org/ghjxx3
   orcid: 0000-0001-8584-0807
   charles-taylor: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/ana.27129
-  title: "Distinct Constructs Underlie Patient\u2010Reported and Performance\u2010\
-    Rated Outcomes after Stroke"
+- id: doi:10.1002/mrm.29909
+  title: "The <scp>ISMRM</scp> Open Science Initiative for Perfusion Imaging (<scp>OSIPI</scp>):\
+    \ Results from the <scp>OSIPI\u2013Dynamic Contrast\u2010Enhanced</scp> challenge"
   authors:
-  - Julie A. DiCarlo
-  - Abhishek Jaywant
-  - Perman Gochyyev
-  - Anna K. Bonkhoff
-  - Richard Hardstone
-  - Kimberly S. Erler
-  - Jessica Ranford
-  - Alison Cloutier
-  - Nathan Ward
-  - Kelly L. Sloane
-  - Lee H. Schwamm
-  - Steven C. Cramer
-  - David J. Lin
-  publisher: Annals of Neurology
-  date: '2024-11-14'
-  link: https://doi.org/10.1002/ana.27129
-  orcid: 0000-0002-9141-4035
+  - Eve S. Shalom
+  - Harrison Kim
+  - Rianne A. van der Heijden
+  - Zaki Ahmed
+  - Reyna Patel
+  - David A. Hormuth
+  - Julie C. DiCarlo
+  - Thomas E. Yankeelov
+  - Nicholas J. Sisco
+  - Richard D. Dortch
+  - Ashley M. Stokes
+  - Marianna Inglese
+  - "Matthew Grech\u2010Sollars"
+  - Nicola Toschi
+  - Prativa Sahoo
+  - Anup Singh
+  - Sanjay K. Verma
+  - Divya K. Rathore
+  - Anum S. Kazerouni
+  - Savannah C. Partridge
+  - Eve LoCastro
+  - Ramesh Paudyal
+  - Ivan A. Wolansky
+  - "Amita Shukla\u2010Dave"
+  - Pepijn Schouten
+  - "Oliver J. Gurney\u2010Champion"
+  - "Radovan Ji\u0159\xEDk"
+  - "Ond\u0159ej Mac\xED\u010Dek"
+  - "Michal Barto\u0161"
+  - "Ji\u0159\xED Vitou\u0161"
+  - Ayesha Bharadwaj Das
+  - S. Gene Kim
+  - Louisa Bokacheva
+  - Artem Mikheev
+  - Henry Rusinek
+  - Michael Berks
+  - Penny L. Hubbard Cristinacce
+  - Ross A. Little
+  - Susan Cheung
+  - James P. B. O'Connor
+  - Geoff J. M. Parker
+  - Brendan Moloney
+  - Peter S. LaViolette
+  - Samuel Bobholz
+  - Savannah Duenweg
+  - John Virostko
+  - Hendrik O. Laue
+  - Kyunghyun Sung
+  - Ali Nabavizadeh
+  - Hamidreza Saligheh Rad
+  - Leland S. Hu
+  - Steven Sourbron
+  - Laura C. Bell
+  - Anahita Fathi Kazerooni
+  publisher: Magnetic Resonance in Medicine
+  date: '2023-12-19'
+  link: https://doi.org/mbvx
+  orcid: 0000-0002-6965-3611
   julie-dicarlo: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/TNSRE.2022.3226067
-  title: Novel Platform for Quantitative Assessment of Functional Object Interactions
-    After Stroke
+- id: doi:10.3390/tomography9020066
+  title: Toward Practical Integration of Omic and Imaging Data in Co-Clinical Trials
   authors:
-  - Rashida Nayeem
-  - Won Joon Sohn
-  - Julie A. DiCarlo
-  - Perman Gochyyev
-  - David J. Lin
-  - Dagmar Sternad
-  publisher: IEEE Transactions on Neural Systems and Rehabilitation Engineering
-  date: '2023-01-01'
-  link: https://doi.org/10.1109/tnsre.2022.3226067
-  orcid: 0000-0002-9141-4035
+  - Emel Alkim
+  - Heidi Dowst
+  - Julie DiCarlo
+  - Lacey Dobrolecki
+  - "Anadulce Hern\xE1ndez-Herrera"
+  - David Hormuth
+  - Yuxing Liao
+  - Apollo McOwiti
+  - Robia Pautler
+  - Mothaffar Rimawi
+  - Ashley Roark
+  - Ramakrishnan Srinivasan
+  - Jack Virostko
+  - Bing Zhang
+  - Fei Zheng
+  - Daniel Rubin
+  - Thomas Yankeelov
+  - Michael Lewis
+  publisher: Tomography
+  date: '2023-04-10'
+  link: https://doi.org/g98gwm
+  orcid: 0000-0002-6965-3611
+  julie-dicarlo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/mrm.29547
+  title: "An untrained deep learning method for reconstructing dynamic MR images from\
+    \ accelerated model\u2010based data"
+  authors:
+  - Kalina P. Slavkova
+  - Julie C. DiCarlo
+  - Viraj Wadhwa
+  - Sidharth Kumar
+  - Chengyue Wu
+  - John Virostko
+  - Thomas E. Yankeelov
+  - Jonathan I. Tamir
+  publisher: Magnetic Resonance in Medicine
+  date: '2022-12-05'
+  link: https://doi.org/g98gwn
+  orcid: 0000-0002-6965-3611
+  julie-dicarlo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/mrm.29511
+  title: "Analysis of simplicial complexes to determine when to\_sample for quantitative\
+    \ <scp>DCE MRI</scp> of the breast"
+  authors:
+  - Julie C. DiCarlo
+  - Angela M. Jarrett
+  - Anum S. Kazerouni
+  - John Virostko
+  - Anna Sorace
+  - Kalina P. Slavkova
+  - Stefanie Woodard
+  - Sarah Avery
+  - Debra Patt
+  - Boone Goodgame
+  - Thomas E. Yankeelov
+  publisher: Magnetic Resonance in Medicine
+  date: '2022-11-02'
+  link: https://doi.org/g98gwp
+  orcid: 0000-0002-6965-3611
+  julie-dicarlo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/5.0086789
+  title: Integrating mechanism-based modeling with biomedical imaging to build practical
+    digital twins for clinical oncology
+  authors:
+  - Chengyue Wu
+  - Guillermo Lorenzo
+  - David A. Hormuth
+  - Ernesto A. B. F. Lima
+  - Kalina P. Slavkova
+  - Julie C. DiCarlo
+  - John Virostko
+  - Caleb M. Phillips
+  - Debra Patt
+  - Caroline Chung
+  - Thomas E. Yankeelov
+  publisher: Biophysics Reviews
+  date: '2022-05-17'
+  link: https://doi.org/g8xw7h
+  orcid: 0000-0002-6965-3611
+  julie-dicarlo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41596-021-00617-y
+  title: Quantitative magnetic resonance imaging and tumor forecasting of breast cancer
+    patients in the community setting
+  authors:
+  - Angela M. Jarrett
+  - Anum S. Kazerouni
+  - Chengyue Wu
+  - John Virostko
+  - Anna G. Sorace
+  - Julie C. DiCarlo
+  - David A. Hormuth
+  - David A. Ekrut
+  - Debra Patt
+  - Boone Goodgame
+  - Sarah Avery
+  - Thomas E. Yankeelov
+  publisher: Nature Protocols
+  date: '2021-09-22'
+  link: https://doi.org/gtjz6g
+  orcid: 0000-0002-6965-3611
+  julie-dicarlo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/tomography7030023
+  title: Characterizing Errors in Pharmacokinetic Parameters from Analyzing Quantitative
+    Abbreviated DCE-MRI Data in Breast Cancer
+  authors:
+  - Kalina P. Slavkova
+  - Julie C. DiCarlo
+  - Anum S. Kazerouni
+  - John Virostko
+  - Anna G. Sorace
+  - Debra Patt
+  - Boone Goodgame
+  - Thomas E. Yankeelov
+  publisher: Tomography
+  date: '2021-06-23'
+  link: https://doi.org/gqv993
+  orcid: 0000-0002-6965-3611
+  julie-dicarlo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ejrad.2021.109534
+  title: The rate of breast fibroglandular enhancement during dynamic contrast-enhanced
+    MRI reflects response to neoadjuvant therapy
+  authors:
+  - John Virostko
+  - Garrett Kuketz
+  - Erin Higgins
+  - Chengyue Wu
+  - Anna G. Sorace
+  - Julie C. DiCarlo
+  - Sarah Avery
+  - Debra Patt
+  - Boone Goodgame
+  - Thomas E. Yankeelov
+  publisher: European Journal of Radiology
+  date: '2021-03-01'
+  link: https://doi.org/gqv973
+  orcid: 0000-0002-6965-3611
+  julie-dicarlo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neo.2020.10.011
+  title: Evaluating patient-specific neoadjuvant regimens for breast cancer via a
+    mathematical model constrained by quantitative magnetic resonance imaging data
+  authors:
+  - Angela M. Jarrett
+  - David A. Hormuth
+  - Chengyue Wu
+  - Anum S. Kazerouni
+  - David A. Ekrut
+  - John Virostko
+  - Anna G. Sorace
+  - Julie C. DiCarlo
+  - Jeanne Kowalski
+  - Debra Patt
+  - Boone Goodgame
+  - Sarah Avery
+  - Thomas E. Yankeelov
+  publisher: Neoplasia
+  date: '2020-12-01'
+  link: https://doi.org/gn2d7b
+  orcid: 0000-0002-6965-3611
+  julie-dicarlo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3899/jrheum.171469
+  title: MRI and Dose Selection in a Phase II Trial of Baricitinib with Conventional
+    Synthetic Disease-modifying Antirheumatic Drugs in Rheumatoid Arthritis
+  authors:
+  - Charles Peterfy
+  - Julie DiCarlo
+  - Paul Emery
+  - Mark C. Genovese
+  - Edward C. Keystone
+  - Peter C. Taylor
+  - Doug E. Schlichting
+  - Scott D. Beattie
+  - Monica Luchi
+  - William Macias
+  publisher: The Journal of Rheumatology
+  date: '2019-01-15'
+  link: https://doi.org/g98gwq
+  orcid: 0000-0002-6965-3611
+  julie-dicarlo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/annrheumdis-2013-204762
+  title: 'The effects of tocilizumab on osteitis, synovitis and erosion progression
+    in rheumatoid arthritis: results from the ACT-RAY MRI substudy'
+  authors:
+  - Philip G Conaghan
+  - Charles Peterfy
+  - Ewa Olech
+  - Jeffrey Kaine
+  - David Ridley
+  - Julie DiCarlo
+  - Josh Friedman
+  - Jenny Devenport
+  - Orrin Troum
+  publisher: Annals of the Rheumatic Diseases
+  date: '2014-05-01'
+  link: https://doi.org/gcbhjv
+  orcid: 0000-0002-6965-3611
+  julie-dicarlo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1136/annrheumdis-2012-201611
+  title: 'Impact of intravenous abatacept on synovitis, osteitis and structural damage
+    in patients with rheumatoid arthritis and an inadequate response to methotrexate:
+    the ASSET randomised controlled trial'
+  authors:
+  - Philip G Conaghan
+  - Patrick Durez
+  - Rieke E Alten
+  - "Gerd-R\xFCdiger Burmester"
+  - Paul P Tak
+  - Lars Klareskog
+  - Anca Irinel Catrina
+  - Julie DiCarlo
+  - Corine Gaillez
+  - Manuela Le Bars
+  - Xianhuang Zhou
+  - Charles Peterfy
+  publisher: Annals of the Rheumatic Diseases
+  date: '2013-08-01'
+  link: https://doi.org/f25m2c
+  orcid: 0000-0002-6965-3611
+  julie-dicarlo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/ar4202
+  title: 'Monitoring cartilage loss in the hands and wrists in rheumatoid arthritis
+    with magnetic resonance imaging in a multi-center clinical trial: IMPRESS (NCT00425932)'
+  authors:
+  - Charles G Peterfy
+  - Ewa Olech
+  - Julie C DiCarlo
+  - Joan T Merrill
+  - Peter J Countryman
+  - Norman B Gaylis
+  publisher: Arthritis Research &amp; Therapy
+  date: '2013-03-20'
+  link: https://doi.org/gb9z73
+  orcid: 0000-0002-6965-3611
+  julie-dicarlo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/ar3861
+  title: Evaluating joint-space narrowing and cartilage loss in rheumatoid arthritis
+    by using MRI
+  authors:
+  - Charles G Peterfy
+  - Julie C DiCarlo
+  - Ewa Olech
+  - Maire-Agnes Bagnard
+  - Annarita Gabriele
+  - Norman Gaylis
+  publisher: Arthritis Research &amp; Therapy
+  date: '2012-05-30'
+  link: https://doi.org/gb9zvk
+  orcid: 0000-0002-6965-3611
+  julie-dicarlo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3899/jrheum.110418
+  title: 'Magnetic Resonance Imaging in Rheumatoid Arthritis Clinical Trials: Emerging
+    Patterns Based on Recent Experience'
+  authors:
+  - CHARLES G. PETERFY
+  - PETER COUNTRYMAN
+  - ANNARITA GABRIELE
+  - TIM SHAW
+  - ANDREW ANISFELD
+  - WAYNE TSUJI
+  - EWA OLECH
+  - NORMAN B. GAYLIS
+  - PHILIP G. CONAGHAN
+  - VIBEKE STRAND
+  - JULIE DICARLO
+  publisher: The Journal of Rheumatology
+  date: '2011-09-01'
+  link: https://doi.org/b6fmfx
+  orcid: 0000-0002-6965-3611
+  julie-dicarlo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/art.30114
+  title: "An oral Syk kinase inhibitor in the treatment of rheumatoid arthritis: A\
+    \ three\u2010month randomized, placebo\u2010controlled, phase II study in patients\
+    \ with active rheumatoid arthritis that did not respond to biologic agents"
+  authors:
+  - Mark C. Genovese
+  - Arthur Kavanaugh
+  - Michael E. Weinblatt
+  - Charles Peterfy
+  - Julie DiCarlo
+  - Michael L. White
+  - Maryann O'Brien
+  - Elliott B. Grossbard
+  - Daniel B. Magilavy
+  publisher: Arthritis &amp; Rheumatism
+  date: '2011-01-28'
+  link: https://doi.org/czjtx6
+  orcid: 0000-0002-6965-3611
+  julie-dicarlo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2217/ijr.11.1
+  title: Comparison of the Genant-modified Sharp and van der Heijde-modified Sharp
+    scoring methods for radiographic assessment in rheumatoid arthritis
+  authors:
+  - Charles G Peterfy
+  - Chun Wu
+  - Jan Szechinski
+  - Julie C DiCarlo
+  - Ying Lu
+  - Mark Genovese
+  - Vibeke Strand
+  - Harry K Genant
+  publisher: International Journal of Clinical Rheumatology
+  date: '2011-02-01'
+  link: https://doi.org/b7v93t
+  orcid: 0000-0002-6965-3611
+  julie-dicarlo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/mrm.20594
+  title: "Variable\u2010density one\u2010shot fourier velocity encoding"
+  authors:
+  - Julie C. DiCarlo
+  - Brian A. Hargreaves
+  - Krishna S. Nayak
+  - Bob S. Hu
+  - John M. Pauly
+  - Dwight G. Nishimura
+  publisher: Magnetic Resonance in Medicine
+  date: '2005-08-08'
+  link: https://doi.org/d9chvq
+  orcid: 0000-0002-6965-3611
   julie-dicarlo: true
   plugin: orcid.py
   file: orcid.yaml

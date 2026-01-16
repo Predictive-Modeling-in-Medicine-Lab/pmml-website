@@ -9,12 +9,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@michaelkapteyn.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: euq570kAAAAJ
-  github: michaelkapteyn
-  twitter: michaelkapteyn
-  youtube: michaelkapteyn
+  email: ashley.smith@oden.utexas.edu
+  # orcid: 0000-0001-8713-9213
+  # google-scholar: euq570kAAAAJ
+  github: Predictive-Modeling-in-Medicine-Lab
+  # twitter: pmml
+  # youtube: pmml
 
 ### jekyll settings
 
